@@ -1,0 +1,44 @@
+*{
+    background-color: bisque;
+    
+}
+
+.box-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50em;
+    width: 100%;
+    background-color: purple;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    height: 20em;
+    width: 20em;
+    background-color: rgb(128, 115, 0);
+}
+.title{
+    
+    text-align:center; 
+    width: 210px; 
+    color:green; 
+    border: solid black 2px; 
+}
+ 
+input[type="button"] {
+
+    border: purple solid 3px;
+    width: 100%;
+    background-color: darkorange;
+}
+
+input[input="text"]{
+    background-color: deeppink;
+    
+}
+
+
+        
